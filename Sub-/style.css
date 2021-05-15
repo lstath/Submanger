@@ -243,26 +243,26 @@ header {
 .hero-text-box {
     position: absolute;
     width: 1140px;
-    top: 38%;
+    top: 40%;
     left: 40%;
     transform: translate(-40%, -50%);
 }
 
 .logo {
-    height: 100px;
+    height: 150px;
     width: auto;
-    float: left;
-    margin-top: 25px;
-    padding-top: 20px;
+    padding-top: 35px;
 }
+
+
+
 
 /* MAIN NAV */
 
 .main-nav {
     float: right;
     list-style: none;
-    margin-top: 35px;
-    padding-top: 35px;
+    margin-top: 15px;
 }
 
 .main-nav li {
@@ -445,6 +445,24 @@ footer {
 }
 
 
+/* Sign up section */
+
+form {
+    position: absolute;
+    width: 1140px;
+    top: 50%;
+    left: 40%;
+    transform: translate(-40%, -50%);
+    color: rgb(185, 200, 250);
+}
+
+form h1 {
+    position: relative;
+    margin-right: 55%;
+    font-weight: 300;
+    float: top;
+    text-decoration: underline 2px;
+}
 
 
 
